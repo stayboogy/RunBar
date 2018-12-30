@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2015\Projects\RunBar_skeleton\RunBar_skeleton\bin\x64\Release\RunBar_skeleton.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\RunBar_skeleton\RunBar_skeleton\bin\x64\Release\RunBar_skeleton.exe
+c:\users\administrator\documents\visual studio 2015\Projects\RunBar_skeleton\RunBar_skeleton\bin\x64\Release\RunBar_skeleton.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\RunBar_skeleton\RunBar_skeleton\obj\x64\Release\RunBar_skeleton.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\RunBar_skeleton\RunBar_skeleton\obj\x64\Release\RunBar_skeleton.runbar.resources
+c:\users\administrator\documents\visual studio 2015\Projects\RunBar_skeleton\RunBar_skeleton\obj\x64\Release\RunBar_skeleton.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\RunBar_skeleton\RunBar_skeleton\obj\x64\Release\RunBar_skeleton.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\RunBar_skeleton\RunBar_skeleton\obj\x64\Release\RunBar_skeleton.exe
+c:\users\administrator\documents\visual studio 2015\Projects\RunBar_skeleton\RunBar_skeleton\obj\x64\Release\RunBar_skeleton.pdb
