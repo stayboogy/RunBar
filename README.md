@@ -1,10 +1,10 @@
 # RunBar
 
-This is a simple program/shell for launching various tools from a Windows environment, mainly WinPE.  
+	This is a simple program/shell for launching various tools from a Windows environment, mainly WinPE.  
 
-This is provided open-source because not much in this realm is, and that discourages development and improvement and cleaner more accurate results.  
+	This is provided open-source because not much in this realm is, and that discourages development and improvement and cleaner more accurate results.  
 
-If you use any or all of this in your project I ask that you send me an email of thanks with a link to your project, which should also be open-source, to idaboogerman@gmail.com, and give me some credit somewhere.
+	If you use any or all of this in your project I ask that you send me an email of thanks with a link to your project, which should also be open-source, to idaboogerman@gmail.com, and give me some credit somewhere.
 
 
 1. In order for this to run properly or at all, you must have the WinPE-NetFx.cab and the corresponding lanugage package for your build dism added to your .wim
