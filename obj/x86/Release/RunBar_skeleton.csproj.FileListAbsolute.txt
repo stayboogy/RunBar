@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\RunBar_skeleton\RunBar_skeleton\bin\x86\Release\RunBar_skeleton.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\RunBar_skeleton\RunBar_skeleton\bin\x86\Release\RunBar_skeleton.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\RunBar_skeleton\RunBar_skeleton\bin\x86\Release\RunBar_skeleton.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\RunBar_skeleton\RunBar_skeleton\obj\x86\Release\RunBar_skeleton.runbar.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\RunBar_skeleton\RunBar_skeleton\obj\x86\Release\RunBar_skeleton.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\RunBar_skeleton\RunBar_skeleton\obj\x86\Release\RunBar_skeleton.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\RunBar_skeleton\RunBar_skeleton\obj\x86\Release\RunBar_skeleton.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\RunBar_skeleton\RunBar_skeleton\obj\x86\Release\RunBar_skeleton.pdb

@@ -19,22 +19,22 @@ namespace RunBar_skeleton
 
         private void cmd_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start(@"X:\Windows\System32\cmd.exe");
+            System.Diagnostics.Process.Start(@"cmd.exe");
         }
 
         private void taskmgr_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start(@"X:\Windows\System32\taskmgr.exe");
+            System.Diagnostics.Process.Start(@"taskmgr.exe");
         }
 
         private void diskpart_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start(@"X:\Windows\System32\diskpart.exe");
+            System.Diagnostics.Process.Start(@"diskpart.exe");
         }
 
         private void notepad_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start(@"X:\Windows\notepad.exe");
+            System.Diagnostics.Process.Start(@"notepad.exe");
         }
     }
 }
