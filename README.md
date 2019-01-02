@@ -8,6 +8,8 @@ If you use any or all of this in your project I ask that you send me an email of
 
 https://www.youtube.com/watch?v=wGn7AOD_lFI&feature=youtu.be
 
+Included are pre-compiled exe's in /bin/x64 and /bin/x86 respectively.
+
 
 	1. In order for this to run properly or at all, you must have the WinPE-NetFx.cab and the corresponding lanugage package for your build dism added to your .wim
 
